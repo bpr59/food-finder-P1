@@ -6,3 +6,134 @@
 @media screen and (max-width: 576px) {
 
 }
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logo-header {
+    position: relative;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    color: white;
+    text-shadow: black 2px 3px 2px;
+}
+
+/*version one of background options for header*/
+
+/*.top-bar {
+    background-image: url(../assets/images/cook-366875_1920.jpg);
+    height: 175px;
+    width: 1500px;
+    padding-top: 125px;
+    padding-bottom: 775px;
+    margin-top: -750px;
+    opacity: .7;
+}
+
+.top-bar::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 616px;
+    left: 0px;
+    background-color: rgba(10, 34, 85, 0.75);
+}*/
+
+/*version two of background options for header*/
+
+/*.top-bar {
+    position: relative;
+    height: 150px;
+    width: 1500px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    margin-top: -150px;
+    display: flex;
+}
+
+.top-bar::before {
+    content: "";
+    background-image: url(../assets/images/lisbon-2660748_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .6;
+}*/
+
+/*version three of background options for header*/
+
+/*.top-bar {
+    position: relative;
+    height: 150px;
+    width: 1500px;
+    padding-top: 100px;
+    padding-bottom: 600px;
+    margin-top: -550px;
+    display: flex;
+}
+
+.top-bar::before {
+    content: "";
+    background-image: url(../assets/images/food-4397860_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .7;
+}*/
+
+/*version four of background options for header*/
+
+/*.top-bar {
+    position: relative;
+    height: 150px;
+    width: 1500px;
+    padding-top: 100px;
+    padding-bottom: 600px;
+    margin-top: -550px;
+    display: flex;
+}
+
+.top-bar::before {
+    content: "";
+    background-image: url(../assets/images/bar-2314410_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .7;
+}*/
+
+/*version five of background options for header*/
+
+.top-bar {
+    position: relative;
+    height: 150px;
+    width: 1500px;
+    padding-top: 100px;
+    padding-bottom: 600px;
+    margin-top: -550px;
+    display: flex;
+}
+
+.top-bar::before {
+    content: "";
+    background-image: url(../assets/images/restaurant-1308007_1920.jpg);
+    background-size: 80em;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .7;
+}
